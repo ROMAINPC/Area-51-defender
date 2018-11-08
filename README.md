@@ -3,16 +3,21 @@ FPS singleplayer en JavaFX
 
 ![alt text](exemple.png) 
 
-##Prérequis :
+## PrÃ©requis :
 - Java version 8 minimum (pour avoir la librairie JavaFX)
 	https://www.java.com/fr/
 
-##Optimisation (ou si le jeu ne démarre pas):
+## Optimisation (ou si le jeu ne dÃ©marre pas):
 
--Ouvrez le bloc note windows
--Tapez: java -Xms1g -Xmx4g -jar "C:/chemin/de/votre/fichier/Area 51 Defender.exe"
-(esssyez différentes valeurs autre que 1 et 4)
+- Ouvrez le bloc note windows
+
+- Tapez: java -Xms1g -Xmx4g -jar "C:/chemin/de/votre/fichier/Area 51 Defender.exe"
+	(essayez diffÃ©rentes valeurs autre que 1 et 4)
+
 - Enregistrer sous
--Tout types de fichier
--Enregistrer ce petit code n'importe où EN RAJOUTANT .bat (ex: Lanceur du jeu.bat)
--Double cliquez sur le fichier .bat créé pour lancer le Jeu.
+
+- Tout types de fichier
+
+- Enregistrer ce petit code n'importe oÃ¹ EN RAJOUTANT .bat (ex: Lanceur du jeu.bat)
+
+- Double cliquez sur le fichier .bat crÃ©Ã© pour lancer le Jeu.
